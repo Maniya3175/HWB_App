@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6482731419",
+    "project_id": "hwb-app-d6f30",
+    "storage_bucket": "hwb-app-d6f30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6482731419:android:ce56aa0a439dbf8696813e",
+        "android_client_info": {
+          "package_name": "com.example.hwbapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6482731419-22ggsccco0e4amcfeso69ta3q16iqp88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6b3pvbTLdKqwMdTzuRiS6kebYjuuZJ6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6482731419-22ggsccco0e4amcfeso69ta3q16iqp88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
